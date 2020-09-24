@@ -1,0 +1,7 @@
+bài 13: Các thành phần của một liên kết
+
+link : liên kết.
+    các liên kết ở trong trang web chính là những hyper link mà những nhà phát triển web đã viết sẵn web thì khi người dùng click vào thì sẽ thực hiện quá trình request tới webserver thay vì buộc họ phải nhập vào adress của trình duyệt.
+    
+    internal links : liên kết vs những trang trong 1 website dùng đường dẫn tương đối.
+    external links : liên vs những website or file bên ngoài dùng đường dẫn tuyệt đối qua http.
